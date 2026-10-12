@@ -1,3 +1,42 @@
+// class Solution {
+//     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
+//         int max=0;
+//         int idx=0;
+//         if(k1 != 0){
+//             for(int i=0;i<k1;i++){
+//                 for(int j=0;j<nums1.length;j++){
+//                     int diff=Math.abs(nums1[j])-Math.abs(nums2[j]);
+//                     if(max<diff){
+//                         idx=i;
+//                     }
+//                     max=Math.max(max,diff);
+//                 }
+//                 nums1[idx]++;
+//             }
+//         }
+//         if(k2 != 0){
+//             for(int i=0;i<k2;i++){
+//                 for(int j=0;j<nums1.length;j++){
+//                     int diff=Math.abs(nums1[j])-Math.abs(nums2[j]);
+//                     if(max<diff){
+//                         idx=i;
+//                     }
+//                     max=Math.max(max,diff);
+//                 }
+//                 nums2[idx]++;
+//             }
+//         }
+//         int sum=0;
+//         for(int i=0;i<nums1.length;i++){
+//             int d=Math.abs(nums1[i])-Math.abs(nums2[i]);
+//             int sqr=d*d;
+//             sum+=sqr;
+//         }
+//         return sum;
+//     }
+// }
+
+
 class Solution {
     public long minSumSquareDiff(int[] nums1, int[] nums2, int k1, int k2) {
         int[] d = new int[100001];
