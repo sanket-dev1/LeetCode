@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sanket-dev1/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/sanket-dev1/LeetCode/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Greedy
 |  |
