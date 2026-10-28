@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sanket-dev1/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sanket-dev1/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sanket-dev1/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sanket-dev1/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sanket-dev1/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sanket-dev1/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanket-dev1/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sanket-dev1/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sanket-dev1/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
